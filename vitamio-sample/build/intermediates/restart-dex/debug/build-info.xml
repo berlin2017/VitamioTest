@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxxhdpi"
+    format="7"
+    timestamp="18263538299300"
+    token="-3250165679599796451" >
+
+    <task
+        name="javac"
+        duration="409" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="26" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="E:\berlin\project\test\VideoTest\vitamio-sample\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build timestamp="17787159188526" >
+        <artifact
+            location="E:\berlin\project\test\VideoTest\vitamio-sample\build\outputs\apk\vitamio-sample-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="18263538299300" >
+        <artifact
+            location="E:\berlin\project\test\VideoTest\vitamio-sample\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
